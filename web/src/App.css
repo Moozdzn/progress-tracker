@@ -1,0 +1,17 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+body {
+  background: none !important;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
